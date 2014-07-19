@@ -1,0 +1,1 @@
+EEG data reading library for Neurosky headset @ ARDUINO
